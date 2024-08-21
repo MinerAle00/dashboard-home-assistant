@@ -1,5 +1,7 @@
 # Lenovo TB-X103F Home Assistant Dashboard Setup
 
+**La repository non é ancora completa di tutti i passaggi, nei prossimi giorni verrá ultimata**
+
 Questa repository fornisce una guida dettagliata per trasformare un tablet Lenovo TB-X103F in una dashboard dedicata per Home Assistant.
 
 ## Indice
